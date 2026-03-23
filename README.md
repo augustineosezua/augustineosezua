@@ -8,8 +8,7 @@ I'm a Computing student at Queen’s University and a software developer who enj
 ## Interests
 - Building products that solve real everyday problems
 - Designing apps that feel simple and clear to use
-- Exploring the intersection of software, productivity, and personal finance
-- Turning good ideas into polished, usable tools
+- Exploring the intersection of software, productivity, and personal life
 
 ## Tech I use
 JavaScript, TypeScript, Python, Java, React, Node.js, PostgreSQL, MySQL, Tailwind CSS
